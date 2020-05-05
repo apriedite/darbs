@@ -10,4 +10,5 @@ Kubs sastāv no sešiem gabaliem, uz kuriem ir burti - A, R, V un Z.
 
 ### Bildes
 
+![kubs1](https://user-images.githubusercontent.com/61495750/81079246-ffecd980-8ef7-11ea-9ced-cb9fb6584370.jpeg)
 
