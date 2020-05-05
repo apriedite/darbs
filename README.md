@@ -7,6 +7,7 @@ Kubs sastāv no sešiem gabaliem, uz kuriem ir burti - A, R, V un Z.
 ### Fakti
 - Kubs ir 2 reiz 2 centimetri
 - Malu biezums ir 2 milimetri
+- Savienojuma vietas veido vienādmalu trapeces formas
 
 ### Bildes
 
