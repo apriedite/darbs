@@ -1,8 +1,8 @@
-## Welcome to GitHub Pages
+## Informātikas darbs - 3D kubs
 
-You can use the [editor on GitHub](https://github.com/apriedite/darbs/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Februārī mūsu grupai kubiņš jai bija salikts kopā un gatavs.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Kubs sastāv no sešiem gabaliem, uz kuriem ir burti - A, R, V un Z.
 
 ### Markdown
 
