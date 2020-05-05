@@ -10,4 +10,4 @@ Kubs sastāv no sešiem gabaliem, uz kuriem ir burti - A, R, V un Z.
 
 ### Bildes
 
-kubs1.jpeg
+
