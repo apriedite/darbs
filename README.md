@@ -10,6 +10,8 @@ Kubs sastāv no sešiem gabaliem, uz kuriem ir burti - A, R, V un Z.
 - Savienojuma vietas veido vienādmalu trapeces formas
 
 ### Bildes
+![kubs3](https://user-images.githubusercontent.com/61495750/81149681-5a814680-8f87-11ea-800d-182df2cb5eb0.jpeg)
+Bilde no projekta, kā tapa mūsu kubs.
 
 ![kubs1](https://user-images.githubusercontent.com/61495750/81079246-ffecd980-8ef7-11ea-9ced-cb9fb6584370.jpeg)
 Šis ir kuba kopskats.
